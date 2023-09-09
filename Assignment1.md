@@ -21,6 +21,8 @@ the pavilion design should provide a strong foundation for meeting these future 
 room for future improvements, such as the ability to incorporate locally available materials, use solar cell membranes for sharing and explore more advanced 
 materials for the eventual colonization efforts on Mars.
 
+<img src="images/Timelinediagram.png" width="800">
+
 ## Systems focus
 
 In this project, our primary focus will be on the materials, structure and construction (build). We
