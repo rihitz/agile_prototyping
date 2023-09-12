@@ -24,3 +24,7 @@ In an ideal scenario, we aspire to incorporate locally sourceable materials, suc
 
 
 ## System analysis
+
+
+
+## Future case
