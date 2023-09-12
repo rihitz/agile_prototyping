@@ -18,3 +18,9 @@ In an ideal scenario, we aspire to incorporate locally sourceable materials, suc
 **Build** - The Roskilde Pavilion project places a specific set of requirements on the Build system. The structure must be erectable within a three day timeframe, reusable for at least three different occasions and user friendly for students from diverse study disciplines, thus ensuring an ever available set of helping hands, more specifically for the build-up and take-down processes. Moreover cost efficiency is of a great imprortance as there is an imposed budget cap of 150'000 DDK. These criteria imply that the structure should be relatively lightweight, easy to construct and not reliant on heavy machinery for assembly.
 
 **Structure** - Building upon the previously outlined prerequisites, the structural system will integrate these requirements into a coherent project design. The pavilion's intended use cases, such as providing shade and shelter and potentially serving as a stage, will govern the design philosophy. Simultaneusly, the sustainable design principles will be applied by consciously selecting materials and construction methods. In our opinion, while hte main purpose of pavilion's structure design is to ensure its integrity, it should also act as a facilitator for achieving all of the previously outlined sustainability objectives.
+
+## System examples
+
+
+
+## System analysis
