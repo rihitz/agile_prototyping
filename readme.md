@@ -2,5 +2,4 @@
 
 ### Group members
 Rihards Zamoidiks (s186415)  
-Kasper Holst (s233432)
 
