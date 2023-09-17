@@ -31,17 +31,28 @@ Another alternative worth considering is recycled metals, specifically aluminum.
 
 Considering the nature of pavilion structures and the somewhat limited material options that align with the project goals, it's important that the construction methods are aligned to meed these requirements. A highly progressive construction method that has gained significant traction in recent years is 3D printed construction. This method typically utilizes specialized mixtures of concrete, clays and other cementitious materials. 3D printed construction holds great potential for this project due to its capacity to reduce the labor intensity, offer design flexibility and the useability of sustainable materials. While 3D printed structures are typically permanent, the design approach can be adjusted so that the building is executed in a modular fashion, making it collapsible.
 
+<img src="images/3D_clay.jpg" width="400">
+
+**3D printed clay structure**
+
 Given the importance of collapsibility, it's also worthwhile to explore various quick-connect style connections or interlocking building blocks, similar to [Gablok's](https://gablok.be/en/) insulated self-building blocks, as illustrated below:
 
+
 <img src="images/lego.jpg" width="400">
-** Caption: Gablok's insulated self-building blocks **
 
+**Gablok's insulated self-building blocks**
 
+<img src="images/tubular_joint.jpeg" width="400">
 
-
+**An example on typical tubular joint that allows for quick assembly**
 
 ## System analysis
 
+As outlined before, in terms of material selection, the primary focus lies within the aspect of sustainability. Compliance of this requirement could best be verified through research of literature encompassing material sustainability, life cycle assessment and practical use cases where the selected materials have been used in similar applications.
+
+Regarding the structure and build systems, a hybrid testing of digital and physical models for design verification could prove to be most efficient. A digital model should allow for a comprehensive overview of the proposed structure, focusing on the appearance and different part compatibility. Depending on the time constraints and the extend of applicable knowledge a Finite Element Method (FEM) and/or Computation Fluid Dynamics (CDF) modelling could be applied to learn more about the structural behavior of the structure. A physical model on the other hand, will be instrumental in assessing constructability and structural behavior in the evaluation is to be performed in a more experimental way, for example, manufacturing 3D printed plastic models and performing some load testing.
+
+Regarding the structure and build systems, a hybrid testing approach that combines digital and physical models for design verification will be the most efficient. A digital model provides a comprehensive overview of the proposed structure, focusing on appearance and component compatibility. Depending on time constraints and the extent of applicable knowledge, Finite Element Method (FEM) and/or Computational Fluid Dynamics (CFD) modeling could be applied to gain insights into the structural behavior of the proposed system. On the other hand, a physical model will be instrumental in assessing constructability and structural behavior through experimental means, such as manufacturing 3D printed plastic models and conducting load testing for the purpose of gaining insights into the structural integrity of the system.
 
 
 ## Future case
