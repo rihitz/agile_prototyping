@@ -21,6 +21,22 @@ In an ideal scenario, we aspire to incorporate locally sourceable materials, suc
 
 ## System examples
 
+Regarding the Roskilde Pavilion, it's important to note that the selected focus systems are highly interconnected. As a result, it should be expected that when examining the different system examples, it may not always be possible to isolate the individual systems, but rather observe their tight interdependence.  
+
+When considering materials for the project, there are various types that can meet the project's structural and sustainability criteria. Among these options, wood is perhaps the most commonly chosen material. It offers versatility in its applications, has strong technical properties, and is both recyclable and renewable as a natural resource. Additionally, well-designed wooden components are highly reusable, making them a sustainable choice.  
+
+Cardboard, preferably recycled cardboard, is another strong contender. It stands out as one of the simplest and environmentally friendly materials to recycle. When used effectively and to its advantages, it can be used for versatile applications, including lightweight structural components that don't bear heavy loads. With appropriate treatment and processing, it may even be feasable to improve its weather resistance, which is a cricual factor for outdoor conditions.  
+
+Another alternative worth considering is recycled metals, specifically aluminum. Aluminum is among the metals that are relatively easy to recycle while still retaining all of its mechanical and physical properties. Among other recyclable metals, aluminum stands out due to its unique characteristics, particularly its low density, which is advantageous for a collapsible structure that demands a relatively low amount of labour for assembly.  
+
+Considering the nature of pavilion structures and the somewhat limited material options that align with the project goals, it's important that the construction methods are aligned to meed these requirements. A highly progressive construction method that has gained significant traction in recent years is 3D printed construction. This method typically utilizes specialized mixtures of concrete, clays and other cementitious materials. 3D printed construction holds great potential for this project due to its capacity to reduce the labor intensity, offer design flexibility and the useability of sustainable materials. While 3D printed structures are typically permanent, the design approach can be adjusted so that the building is executed in a modular fashion, making it collapsible.
+
+Given the importance of collapsibility, it's also worthwhile to explore various quick-connect style connections or interlocking building blocks, similar to [Gablok's](https://gablok.be/en/) insulated self-building blocks, as illustrated below:
+
+
+
+
+
 
 
 ## System analysis
