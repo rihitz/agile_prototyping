@@ -33,8 +33,8 @@ Considering the nature of pavilion structures and the somewhat limited material 
 
 Given the importance of collapsibility, it's also worthwhile to explore various quick-connect style connections or interlocking building blocks, similar to [Gablok's](https://gablok.be/en/) insulated self-building blocks, as illustrated below:
 
-<img src="images/lego.jpeg" width="400">
-*Caption: Gablok's insulated self-building blocks*
+<img src="images/lego.jpg" width="400">
+**Caption: Gablok's insulated self-building blocks**
 
 
 
