@@ -2,5 +2,5 @@
 
 ### Group members
 Rihards Zamoidiks (s186415)  
-
-**NOTE** - the project has been abandoned
+Zoyan Vangenechten (s232094)
+Kasper Vang Bengtsson (s203628)
