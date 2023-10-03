@@ -2,5 +2,5 @@
 
 ### Group members
 Rihards Zamoidiks (s186415)  
-Zoyan Vangenechten (s232094)
-Kasper Vang Bengtsson (s203628)
+Zoyan Vangenechten (s232094)  
+Kasper Vang Bengtsson (s203628)  
