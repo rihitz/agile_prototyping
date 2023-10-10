@@ -1,10 +1,10 @@
 ## The identified problem
 
-Sustainability
+The problem at hand lies within the realm of sustainability. Generally speaking, structures such as festival pavilions are temporary, in best case seasonal, meaning that they're treated as somewhat consumable constructions. This observation is rather contradicting with respect to sustainable construction, therefore it is the main problem we've identified. This can prove rather tricky to implement in practice, because the aim should be the use of 100% recycleable or already recycled materials, which not always provide with the required material properties, especially when talking construction materials.
 
 ## The prototype that's been identified (the system/artefact)
 
-3D modelling / 3D printing for a scale model
+Our agile prototype project is for Roskilde Pavilion, with the focus on sustainable structure, construction materials and building teechnologies, therefore our identified prototype is mainly the structure of the pavilion itself.
 
 ## Development stages
 
@@ -13,7 +13,7 @@ Sustainability
 3. Background research, material selection
 4. First iteration of sketches, design and general layout
 5. 3D modelling
-6. Testing, basic calculations
+6. Testing on scaled-down 3D printed prototypes, basic calculations
 7. Deign iterations and refinement
 8. Design review
 9. Finalized design
