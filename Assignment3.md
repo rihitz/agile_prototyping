@@ -10,13 +10,28 @@ Our agile prototype project is for Roskilde Pavilion, with the focus on sustaina
 
 1. Identify problem
 2. Idea generation and brainstorming
-3. Background research, material selection
-4. First iteration of sketches, design and general layout
-5. 3D modelling
-6. Testing on scaled-down 3D printed prototypes, basic calculations
-7. Deign iterations and refinement
-8. Design review
-9. Finalized design
+   3D printed clay
+   Recycled cardboard
+   General plan layout
+   General appearance of the structure
+   Material selection, from sustainability standpoint
+   Shading elements, water removal
+   
+9. Background research, material selection
+   https://bioresources.cnr.ncsu.edu/resources/mechanical-and-physical-properties-of-boards-made-from-recycled-paper/
+   https://www.instructables.com/Pulp-It/
+   https://backend.orbit.dtu.dk/ws/portalfiles/portal/130883746/Pre_Print_version.pdf
+   https://www.dlubal.com/en/downloads-and-information/references/customer-projects/001250
+   https://emergingobjects.com/project/quake-column/
+   https://pubmed.ncbi.nlm.nih.gov/36278716/
+   https://www.sciencedirect.com/science/article/pii/S0008884621002027
+   
+11. First iteration of sketches, design and general layout
+12. 3D modelling
+13. Testing on scaled-down 3D printed prototypes, basic calculations
+14. Deign iterations and refinement
+15. Design review
+16. Finalized design
 
 ## The identified features of the system
 
